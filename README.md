@@ -25,7 +25,7 @@ The primary goals of this project are:
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/kriskalb/Laptop_store_regression
+   git clone 'https://github.com/kriskalb/laptop-price-prediction'
 2. Navigate to the project directory:
    cd laptop-price-prediction
 3. Install the required Python packages:
