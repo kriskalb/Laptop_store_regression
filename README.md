@@ -1,7 +1,7 @@
 # Laptop Price Prediction Project
 
 ## Overview
-This project aims to predict laptop prices using data on laptop specifications. We have cleaned and preprocessed the data and applied various regression models, including linear regression and decision trees.
+This project aims to predict laptop prices using data on laptop specifications. We have cleaned and preprocessed the data and applied various regression models. This project is still under development, we plan to make an application in which, using one of the models, we will be able to make a prediction on a case outside the dataset.
 
 ## Project Goals
 The primary goals of this project are:
@@ -12,9 +12,11 @@ The primary goals of this project are:
 - Data Cleaning: The raw data was cleaned to remove missing values and outliers.
 - Data Preprocessing: Feature engineering and preprocessing techniques were applied to prepare the data for modeling.
 - Regression Models: We implemented the following regression models:
-  - Linear Regression
+  - Polylinear Regression
   - Decision Trees Regression
   - Random Forest Regression
+  - SVRegression
+  - XGBoost
 
 ## Technologies Used
 - Python: We used Python as the primary programming language for data analysis and modeling.
